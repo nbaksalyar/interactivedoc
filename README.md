@@ -4,7 +4,8 @@ This repository is used for coordinating effort to make Rust documentation inter
 
 ## Resources
 
-* [Learnable Programming](http://worrydream.com/#!/LearnableProgramming) by Bret Victor.
+* [Learnable Programming](http://worrydream.com/#!/LearnableProgramming) by Bret Victor
+* [Explorable Programming with Rust and WebAssembly](https://lowlvl.org/blog/explorable-programming)
 
 ## Components
 
